@@ -1,8 +1,8 @@
-# Smart Bank Smart Contract
+# Smart Decentralized Bank 
 
 ## Overview
 
-SBank is a simple Ethereum smart contract that serves as a basic bank, allowing users to create accounts, deposit and withdraw Ether, transfer funds between accounts, and earn interest on their deposits.
+Smart Decentralized Bank is a simple Ethereum smart contract that serves as a basic bank, allowing users to create accounts, deposit and withdraw Ether, transfer funds between accounts, and earn interest on their deposits.
 
 ## Features
 
