@@ -1,4 +1,4 @@
-# SBank Smart Contract
+# Smart Bank Smart Contract
 
 ## Overview
 
